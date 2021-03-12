@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>xiaozu121门户</title>
   </head>
   <body>
-  $END$
+    <h1 style="color: pink">Hello IDEA!</h1>
   </body>
 </html>
